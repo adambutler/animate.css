@@ -1,4 +1,6 @@
 #Animate.css
+
+[![Join the chat at https://gitter.im/adambutler/animate.css](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adambutler/animate.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *Just-add-water CSS animation*
 
 `animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
